@@ -1,6 +1,6 @@
 # AI Resume Optimizer
 
-A modern web application that uses AI to analyze and optimize your resume against job descriptions. Built with Streamlit and OpenAI's GPT-4.
+A modern web application that uses AI to analyze and optimize your resume against job descriptions. Built with Streamlit and OpenAI's GPT-3.5.
 
 ## Features
 
