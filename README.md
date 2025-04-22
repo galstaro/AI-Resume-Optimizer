@@ -10,6 +10,10 @@ A modern web application that uses AI to analyze and optimize your resume agains
 - Detailed feedback on missing keywords, skill mismatches, and improvements
 - Compatibility score visualization
 - Modern, dark-themed UI with clean layout
+  
+## Link
+
+https://ai-resume-optimizer-1.streamlit.app/
 
 ## Setup
 
@@ -18,9 +22,9 @@ A modern web application that uses AI to analyze and optimize your resume agains
    ```bash
    pip install -r requirements.txt
    ```
-3. Create a `.env` file in the root directory and add your OpenAI API key:
+3. Create a `.streamlit/secrets.toml` file in the root directory and add your OpenAI API key:
    ```
-   OPENAI_API_KEY=your_api_key_here
+   OPENAI_API_KEY="your_api_key_here"
    ```
 
 ## Usage
